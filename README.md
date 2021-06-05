@@ -3,6 +3,25 @@ Code for the paper `Generate Novel Molecules With Target Properties Using Condit
 
 https://arxiv.org/pdf/2009.12368
 
+## Citing
+
+If you find this code useful in your research, please consider citing the paper:
+
+BibTex:
+
+```
+@article{sagar2020generate,
+  title={Generate Novel Molecules With Target Properties Using Conditional Generative Models},
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2009.12368},
+  year={2020}
+}
+```
+
+MLA:
+
+`Sagar, Abhinav. "Generate Novel Molecules With Target Properties Using Conditional Generative Models." arXiv preprint arXiv:2009.12368 (2020).`
+
 ## Abstract
 
 Drug discovery using deep learning has attracted a lot of attention of late as it
@@ -96,24 +115,6 @@ viable candidate for a drug. It’s value lies between 0 and 1 both included.
 
 ![results](images/d7.png)
 
-## Citing
-
-If you find this code useful in your research, please consider citing the paper:
-
-BibTex:
-
-```
-@article{sagar2020generate,
-  title={Generate Novel Molecules With Target Properties Using Conditional Generative Models},
-  author={Sagar, Abhinav},
-  journal={arXiv preprint arXiv:2009.12368},
-  year={2020}
-}
-```
-
-MLA:
-
-`Sagar, Abhinav. "Generate Novel Molecules With Target Properties Using Conditional Generative Models." arXiv preprint arXiv:2009.12368 (2020).`
 
 ## License
 
